@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    color: greenyellow;
+    text-align: center;
+    padding: 15px;
+}
+
+.container{
+    background: #c454b7;
+    height: 50vh;
+    width: 50vw;
+    color: white;
+}

@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    color: #32a85b;
+    margin-top: 5px;
+    text-align: center;
+ 
+}
+.para{
+    color: grey;
+    font-weight: bold;
+}
+body{
+    background-image: url('h.png');
+    background-size: cover;
+    background-attachment: scroll;
+    /* background repeat types */
+    /* background-repeat: repeat-x;
+       background-repeat: repeat-y;
+       background-repeat: no-repeat;
+    */
+
+    
+}

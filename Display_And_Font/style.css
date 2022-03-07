@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background: #3483eb;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px 10px 10px 10px;
+    display: inline-block;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background:#eb3499;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px 10px 10px 10px ;
+    display: inline-block;
+}

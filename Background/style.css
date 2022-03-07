@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: #a87132;
+}
+.container{
+    height: 150px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: #32a854;
+}
+.container2{
+    height: 150px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: #a83287;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.para{
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+    color: coral;
+
+    
+}
+.container{
+    /* font-size: 34px; */
+
+    text-transform: capitalize;
+    color: grey;
+    background: #352d7d;
+    width: 50vw;
+    height: 50vh;
+    /* width: 600px; */
+    /* height: 300px; */
+
+}
+.box{
+    /* font-size: 3em; */
+    background: chocolate;
+    color: white;
+    padding: 15px;
+}
+.box2{
+    background: #5dba70;
+    color: black;
+    padding: 25px;
+}

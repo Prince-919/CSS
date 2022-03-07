@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.head{
+    color: #111a6d;
+}
+.para{
+    color: darkslategrey;
+    font-weight: bold;
+}
+.container{
+    height: 423px;
+    width: 345px;
+    background: #7c9ca1;
+    /* margin (top,right,bottom,left ) */
+    margin: 4px;
+    padding: 13px;
+    border-width: 4px;
+    border-style: inset;
+    border-color: #111a6d;
+    /* border radius round karne me kam aata h  */
+    border-radius: 15px;
+}
