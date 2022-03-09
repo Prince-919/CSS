@@ -1,0 +1,23 @@
+.container{
+    background-color: red;
+    height: 450px;
+}
+.box img{
+    width: 700px;
+    height: 50px;
+    border: 2px solid black;
+
+    transform: translate(134px, 56px) rotate(45deg);
+    transform-origin: 0;
+
+    /* transform: scale(4,6);
+    transform: scaleX(8);
+    transform: scaleY(8); */
+
+    /* transform: skew(4deg,6deg);
+    transform: skewX();
+    transform: skewY(); */
+
+
+
+}
