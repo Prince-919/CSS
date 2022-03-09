@@ -1,0 +1,20 @@
+.container{
+    display: grid;
+    height: 56vh;
+    background-color: #2f49de;
+    /* grid-row-gap: 9px;
+    grid-column-gap: 9px; */
+
+    /* grid-gap: 2px 9px; */
+    /* grid-gap: 9px; */
+    /* grid-template-columns: 34px 234px auto;
+    grid-template-rows: 434px 84px; */
+
+    grid-template-columns: auto auto auto auto
+    auto;
+
+}
+.item{
+    background-color: cyan;
+    border: 2px solid #de2f2f;
+}

@@ -1,13 +1,10 @@
 
-*{
-    /* width: 75vh; */
-    display: flex;
-    background-color: lightgrey;
-}
-#container div
+#container
 {
-    height: 200px;
-    width: 200px;
+    height: 75vh;
+    width: 75vw;
+    background-color: cyan;
+    display: flex;
 }
 #div1{
     background-color: cyan;
