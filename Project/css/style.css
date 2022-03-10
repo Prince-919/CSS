@@ -1,0 +1,86 @@
+/* import */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500&family=Redressed&display=swap');
+
+
+:root{
+    --main-bg-color:#2874f0;
+}
+/* import */
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background: var(--main-bg-color);
+    font-family: 'Lato', sans-serif;
+}
+nav{
+    display: flex;
+}
+.logo{
+    display: flex;
+    align-items: center;
+  
+}
+.logo img{
+    width: 88px;
+    padding: 0 25px;
+}
+ 
+ 
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+nav ul li{
+    padding: 0 30px;
+    list-style: none;
+    
+}
+nav ul li a{
+    color: #f0f0f0;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    /* color: black; */
+    font-weight: bolder;
+}
+.search{
+    display: flex;
+    align-items: center;
+}
+
+.search input{
+    width: 493px;
+    height: 27px;
+    border-radius: 5px;
+    margin: 0 16px 0 56px;
+}
+.btn{
+    padding: 5px 10px ;
+    background: var(--main-bg-color);
+    border-radius: 7px;
+    cursor: pointer;
+    color: #f0f0f0;
+    border: 2px solid #f0f0f0;
+    
+}
+.search button{
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.container{
+    min-height: calc(100vh - 58px - 12vh);
+}
+footer{
+    height: 12vh;
+    background-color: var(--main-bg-color);
+    color: #f0f0f0;
+    font-family: 'Lato', sans-serif;
+}
