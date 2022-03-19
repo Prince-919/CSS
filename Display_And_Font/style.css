@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
 }
-.box{
+.box1{
     width: 200px;
     height: 200px;
     background: #3483eb;
@@ -10,6 +10,7 @@
     margin: 5px 10px 10px 10px;
     display: inline-block;
 }
+/* Box 2  */
 .box2{
     width: 200px;
     height: 200px;
