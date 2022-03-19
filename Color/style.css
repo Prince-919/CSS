@@ -6,10 +6,13 @@
     background: #fcba03;
     /* rgb value (red,green,blue) */
     /* background: rgb(193, 47, 238); */
+
     color: white;
-    height: 350px;
+    height: 200px;
 }
 .green{
     background: green;
-    color: yellow;
+    color: black;
+    font-weight: bold;
+    height: 100px;
 }
